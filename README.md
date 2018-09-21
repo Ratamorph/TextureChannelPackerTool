@@ -8,4 +8,4 @@ Texture Channel Packer plugin for Unreal Engine 4
 
 Remarks:
 -You must assign a source texture to each slot
--Source textures must be the same size than the target texture
+-Source textures must be the same size as the target texture
