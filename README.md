@@ -1,4 +1,4 @@
-# TextuteChannelPackerTool
+# TextureChannelPackerTool
 Texture Channel Packer plugin for Unreal Engine 4
 
 1. Copy contents into Plugins folder of your project
